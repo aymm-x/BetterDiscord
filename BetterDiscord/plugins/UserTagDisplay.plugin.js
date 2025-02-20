@@ -7,7 +7,7 @@
  * @version 0.0.1
  * @website https://aymlol.netlify.app/aym.lol/$
  * @invite https://discord.gg/UaWKPsr5tU
- * @source https://github.com/Aym/BetterDiscordPlugins/blob/main/UserTagDisplay/UserTagDisplay.plugin.js
+ * @source https://github.com/aymm-x/BetterDiscord-Plugin/blob/main/BetterDiscord/plugins/UserTagDisplay.plugin.js
  */
  
 const request = require("request");
@@ -28,7 +28,7 @@ const config = {
 		version: "0.0.1",
 		description: "Personnalisez l'affichage des noms d'utilisateur sur Discord ! Avec ce plugin BetterDiscord, modifiez facilement les pseudos et ajoutez des touches uniques à vos conversations, pour un chat encore plus dynamique et personnalisé.",
 		github: "https://github.com/Aym/BetterDiscordPlugins/blob/main/UserTagDisplay/UserTagDisplay.plugin.js",
-		github_raw: "https://raw.githubusercontent.com/Aym/BetterDiscordPlugins/main/UserTagDisplay/UserTagDisplay.plugin.js"
+		github_raw: "https://github.com/aymm-x/BetterDiscord-Plugin/blob/main/BetterDiscord/plugins/UserTagDisplay.plugin.js"
 	},
 	changelog: [
 		{
